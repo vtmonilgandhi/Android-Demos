@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textSize="@dimen/textSize"
+        android:layout_gravity="left"
+        android:id="@+id/displayname" />
+
+
+</LinearLayout>

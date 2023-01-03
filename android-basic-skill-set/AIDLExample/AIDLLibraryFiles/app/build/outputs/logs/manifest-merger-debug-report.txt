@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:2:5-49
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:1-17:12
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:1-17:12
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:4:5-16:19
+	android:supportsRtl
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:10:9-40
+service#com.example.monil.aidllibraryfiles.Service.ProductService
+ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:11:5-15:15
+	android:name
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:11:14-52
+intent-filter#com.example.monil.aidllibraryfiles.Service.ProductService
+ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:12:9-14:25
+action#com.example.monil.aidllibraryfiles.Service.ProductService
+ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:13:13-96
+	android:name
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml:13:21-93
+uses-sdk
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+		ADDED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml
+		INJECTED from /home/monil/AndroidStudioProjects/Training Projects/Android Essential - 2/AIDLLibraryFiles/app/src/main/AndroidManifest.xml

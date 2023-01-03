@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPrefrencesExample</string>
+    <string name="shared_preference">Shared Preference</string>
+    <string name="save">Save</string>
+    <string name="pass">Pass</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Name</string>
+</resources>

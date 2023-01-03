@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MapExample</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">GeoCoding</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+    <string name="hello_world">MapAPP</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="address">Address</string>
+    <string name="use_location">Use Location</string>
+    <string name="use_address">Use Address</string>
+    <string name="fetch">Fetch</string>
+    <string name="Address">Address</string>
+    <string name="Cluster">Cluster</string>
+    <string name="Path">Path</string>
+</resources>

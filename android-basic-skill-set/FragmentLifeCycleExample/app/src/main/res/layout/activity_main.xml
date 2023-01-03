@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <!-- Take a fragment in our activity -->
+    <fragment
+        android:id="@+id/test_fragment"
+        android:layout_weight="1"
+        class="com.example.monil.fragmentlifecycleexample.DemoFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_demo" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_weight="10"
+        android:text="Click"
+        android:textSize="20sp"
+        android:onClick="StartActivity"
+        android:layout_height="match_parent" />
+</LinearLayout>

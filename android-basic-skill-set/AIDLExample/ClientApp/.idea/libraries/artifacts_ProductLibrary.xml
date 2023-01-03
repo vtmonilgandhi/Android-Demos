@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:ProductLibrary">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-debug.aar/991be6371dfbfb06aa20970d136cf614/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-debug.aar/991be6371dfbfb06aa20970d136cf614/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

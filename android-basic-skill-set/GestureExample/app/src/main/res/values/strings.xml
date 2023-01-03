@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GestureExample</string>
+    <string name="pinch_title">Pinch Image</string>
+</resources>

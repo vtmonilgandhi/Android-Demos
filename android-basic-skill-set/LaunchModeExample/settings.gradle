@@ -1,0 +1,1 @@
+include ':app', ':singletopmode', ':singletaskmode', ':singleinstancemode'

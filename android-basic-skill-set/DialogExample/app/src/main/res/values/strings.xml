@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DialogExample</string>
+
+    <string-array name="Fruit">
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Pineple</item>
+        <item>Strawberry</item>
+        <item>Banana</item>
+    </string-array>
+</resources>

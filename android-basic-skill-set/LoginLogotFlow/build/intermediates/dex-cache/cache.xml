@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/monil/AndroidStudioProjects/LoginLogotFlow/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="0d341e7eb630b32c85917355146c4b36fe5a7327">
+        <dex dex="/home/monil/AndroidStudioProjects/LoginLogotFlow/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3e62b59319b5cd16691300077299d23df9f57a15/classes.dex" />
+    </item>
+
+</items>

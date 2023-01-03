@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HTTPGetWithJASONExample</string>
+    <string name="enter_latitude">Enter Latitude :</string>
+    <string name="enter_longitude">Enter Longitude :</string>
+    <string name="show_address">Show Address</string>
+    <string name="formatted_address">Formatted Address:</string>
+</resources>

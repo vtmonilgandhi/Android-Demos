@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "568557340982",
+    "firebase_url": "https://analysisexample-d6347.firebaseio.com",
+    "project_id": "analysisexample-d6347",
+    "storage_bucket": "analysisexample-d6347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568557340982:android:ca2331808fa36c80",
+        "android_client_info": {
+          "package_name": "com.example.monil.analysisexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568557340982-i89tvq0q39412qll8i1qplqtr3fog1mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB7BMJG36fhUyyOMMa4lTZlpxFteskhH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

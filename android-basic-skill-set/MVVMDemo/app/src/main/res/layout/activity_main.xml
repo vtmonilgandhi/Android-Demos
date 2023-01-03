@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bind="http://schemas.android.com/apk/res-auto">
+
+    <data class="ProductDetails">
+
+        <import type="android.view.View" />
+
+        <variable
+            name="products"
+            type="com.example.monil.mvvmdemo.ProductViewModel" />
+
+
+    </data>
+
+    <LinearLayout xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|top"
+        android:orientation="vertical"
+        tools:context="com.example.monil.mvvmdemo.MainActivity">
+
+        <EditText
+            android:id="@+id/editText_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Your Name here ... "
+            android:inputType="textPersonName"
+            android:text="@={products.name}"
+            android:textColor="@{products.name.equals(&quot;&quot;) ? @color/red : @color/white}" />
+
+        <EditText
+            android:id="@+id/editText_quantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Quantity here ... "
+            android:inputType="textPersonName"
+            android:text="@={products.quantity}"
+            android:textColor="@{products.name.equals(&quot;&quot;) ? @color/red : @color/white}" />
+
+        <EditText
+            android:id="@+id/editText_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Your Price here ... "
+            android:inputType="textPersonName"
+            android:text="@={products.price}"
+            android:textColor="@{products.quantity.equals(&quot;&quot;) ? @color/red : @color/white}"
+            android:visibility="@{products.quantity.equals(&quot;&quot;) ? View.INVISIBLE : View.VISIBLE}" />
+
+
+        <TextView
+            android:id="@+id/textview_students"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText_quantity"
+            android:text="@={products.mproducts}"
+            android:textColor='@{""}' />
+
+        <include
+            layout="@layout/send_data"
+            bind:products="@{products}" />
+
+    </LinearLayout>
+
+</layout>

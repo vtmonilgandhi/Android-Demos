@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_58ca223dedba04c9ad656fdc4a0f6cd989b41e3d/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_82975ff013670f5323d118483f5a8dd2909ea07c/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="462ea0bcb5e35e40de64403355bf31fe993c6ad4">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_28ce96ad8feff49032dbc71709e51fc16f574c1f/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_dd4963781d62d08c4a460d2e53bc713952d4c79e/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_28a8669a4fa89227dd0984b8735b68e51d8f4885/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_5c1ab9cc7d5ddb07d3259a9d348e0e6afda92b97/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_b9f0b87a55513054b18cf7a7757fad74b48c7977/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="e08e403e4a51d83939f3afd3894e9bd5c5b1c278">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ea67d8f7696c7a859ce43413a4638fa731b75dd1/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_d071ce54edfb49dad296d20e256d6ea9b8e3706c/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_ace6f405d5e21f391dd9ae7b2a33fbcd36a3971a/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_dfa5ddfb1f5b3afd0dd365122224322ea4a187c4/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_4a78e2d73fb40401cc43b5e87dab137e9da7d4c6/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_cf625e5f21f4c16ab60da9a8c9f19e7b43bb93d8/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_454df145ba12e0e06d6966eb0738c135855c7a2a/classes.dex" />
+    </item>
+    <item
+        jar="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        revision="27.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/monil/AndroidStudioProjects/TrainingProject1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_1b960bbac8086dd29ca98f69188f89d8af95a887/classes.dex" />
+    </item>
+
+</items>

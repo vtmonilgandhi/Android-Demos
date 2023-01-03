@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GridViewExample</string>
+
+    <string name="prompt">Choose a Fruit </string>
+    <string-array name="arrays">
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Pineple</item>
+        <item>Strawberry</item>
+        <item>Banana</item>
+        <item>Watermelon</item>
+    </string-array>
+
+</resources>

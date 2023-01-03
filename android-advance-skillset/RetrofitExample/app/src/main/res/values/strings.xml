@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="facebook_app_id">941538139356374</string>
+    <string name="fb_login_protocol_scheme">fb941538139356374</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="InfoFragment">Info</string>
+    <string name="MusicFragment">Music</string>
+    <string name="DetalisFragment">PersonDetails</string>
+    <string name="Logout">Logout</string>
+    <string name="message">Login Screen</string>
+</resources>
+

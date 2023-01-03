@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentProviderExample</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_grade">Grade</string>
+    <string name="add_name">Add Name</string>
+    <string name="retrive_student">Retrive student</string>
+</resources>

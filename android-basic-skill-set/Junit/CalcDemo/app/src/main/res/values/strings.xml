@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcDemo</string>
+    <string name="title">Unit Test Demo</string>
+    <string name="hint_num1">Enter First Value</string>
+    <string name="hint_num2">Enter Second Value</string>
+    <string name="resultLabel">Result</string>
+    <string name="add">Add</string>
+    <string name="multiply">Multiply</string>
+</resources>

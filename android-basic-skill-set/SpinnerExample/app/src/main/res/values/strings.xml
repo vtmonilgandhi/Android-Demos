@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerExample</string>
+
+    <string name="prompt">Choose a Fruit </string>
+    <string-array name="arrays">
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Pineple</item>
+        <item>Strawberry</item>
+        <item>Banana</item>
+    </string-array>
+
+</resources>
